@@ -3,7 +3,7 @@
 
 <p align="center">Grey Leche: Faiyaz Rafee, May Qiu, David Deng
 
-SOTW: [Nice Ocean- John Frye](https://www.youtube.com/watch?v=V-_O7nl0Ii0&ab_channel=JohnFrye)
+SOTW: [Coldplay - True Love](https://www.youtube.com/watch?v=dPmZqsQNzGA)
 
 ## bubbleSort
 ### Best Case
