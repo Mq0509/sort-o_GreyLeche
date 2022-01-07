@@ -1,6 +1,7 @@
 # sort-o_GreyLeche
 
-### Song of the week: Call me -90sFlav
+### Song of the week: [Call me -90sFlav](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ## bubbleSort
 ### Best Case
 #### The best case is when the array is already sorted because it does not need to preform any swaps.
