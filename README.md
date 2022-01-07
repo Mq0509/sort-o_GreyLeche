@@ -17,3 +17,4 @@
 
 ### Worst Case
 #### The worst case is when the array is completely descending because it needs to preform (n-pass) swaps each pass.
+
