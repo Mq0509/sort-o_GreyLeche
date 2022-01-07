@@ -3,7 +3,7 @@
 
 <p align="center">Grey Leche: Faiyaz Rafee, May Qiu, David Deng
 
-SOTW: [Coldplay - True Love] (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+SOTW: [Coldplay - True Love](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## bubbleSort
 ### Best Case
