@@ -3,7 +3,7 @@
 
 <p align="center">Grey Leche: Faiyaz Rafee, May Qiu, David Deng
 
-SOTW: [Call me -90sFlav](https://www.youtube.com/watch?v=V-_O7nl0Ii0&ab_channel=JohnFrye)
+SOTW: [Nice Ocean- John Frye](https://www.youtube.com/watch?v=V-_O7nl0Ii0&ab_channel=JohnFrye)
 
 ## bubbleSort
 ### Best Case
